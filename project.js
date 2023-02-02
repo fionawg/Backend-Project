@@ -236,5 +236,5 @@ app.listen(3000, () => {
     console.log("Listening on port 3000 ...");
 });
 
-/*I learned a lot in this project about how programs communicate with each other and how HTTP requests work. I learned about the
-GOT, PUT, GET, POST, and DELETE requests. This project can be further extended by working on the frontend by using CSS and HTML.*/
+/*I learned a lot in this project about how programs communicate with each other and how HTTP requests work. I learned about the 
+PUT, GET, POST, and DELETE requests. This project can be further extended by working on the frontend by using CSS and HTML.*/
